@@ -4,7 +4,7 @@
 
 青云梯机场成立于2021年, 以前名称是 V4speed，采用IPLC专线，最大提供2.5GBPs速率，无倍率。节点比较多，流媒体解锁稳定，晚高峰体验比较好。
 
-官网地址：https://finalgo.xyz/01dk1
+官网地址：https://finalgo.xyz/bO7y83
 
 ## 机场特点
 
